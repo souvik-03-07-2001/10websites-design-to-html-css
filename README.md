@@ -6,7 +6,7 @@ YouTube video is now Live, click below:
 
 I took on a challenge to completed 10 Websites from Design to HTML/CSS while streaming everything on [Twitch](https://twitch.tv/florinpop17).
 
-Here are the websites I've built:
+Here are the websites that I've built:
 
 -   Automotive Car
 -   Restaurant Food
